@@ -4,7 +4,7 @@ import monitor_cadena_frio_pb2 as cadena_frio_pb2
 import monitor_cadena_frio_pb2_grpc as cadena_frio_grpc
 
 DIRECCION_SERVIDOR = "localhost:50052"
-ID_CAMION = "CAM-003"
+ID_CAMION = "CAM-001"
 INTERVALO_SEGUNDOS = 1
 
 ROJO = "\033[91m"
